@@ -1,0 +1,5 @@
+C:\Users\ryan\Documents\KPL\modul8_1302210124\modul8_1302210124\obj\Debug\net6.0\modul8_1302210124.csproj.AssemblyReference.cache
+C:\Users\ryan\Documents\KPL\modul8_1302210124\modul8_1302210124\obj\Debug\net6.0\modul8_1302210124.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan\Documents\KPL\modul8_1302210124\modul8_1302210124\obj\Debug\net6.0\modul8_1302210124.AssemblyInfoInputs.cache
+C:\Users\ryan\Documents\KPL\modul8_1302210124\modul8_1302210124\obj\Debug\net6.0\modul8_1302210124.AssemblyInfo.cs
+C:\Users\ryan\Documents\KPL\modul8_1302210124\modul8_1302210124\obj\Debug\net6.0\modul8_1302210124.csproj.CoreCompileInputs.cache
